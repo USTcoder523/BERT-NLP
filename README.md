@@ -1,1 +1,6 @@
 # Deep-Learning-NLP
+
+BERT : Algorithm https://arxiv.org/abs/1810.04805
+
+# How BERT works
+BERT makes use of Transformer, an attention mechanism that learns contextual relations between words (or sub-words) in a text. In its vanilla form, Transformer includes two separate mechanisms — an encoder that reads the text input and a decoder that produces a prediction for the task. 
