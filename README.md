@@ -1,4 +1,4 @@
-# Deep-Learning-NLP
+# BERT-NLP
 
 BERT : Algorithm https://arxiv.org/abs/1810.04805
 
